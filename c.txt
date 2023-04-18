@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 can i survive here?
+=======
+can i survive
+>>>>>>> a
