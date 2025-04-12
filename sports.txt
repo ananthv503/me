@@ -1,0 +1,12 @@
+cricket
+hockey
+chess
+badminton
+tennis
+volley ball
+basket ball
+foot ball
+running
+long jump
+short jump
+olymoics
